@@ -10,4 +10,4 @@ The link to access the website and a screenshot of the page is below...
 
 https://petarlo.github.io/Password-Generator/
 
-![Screenshot of page](.assets/images/Password-gen_2023-09-07_214127.png)
+![Screenshot of page](\Assets\Images\Password-gen.png)
